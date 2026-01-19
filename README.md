@@ -304,6 +304,3 @@ Agentic AI resume Screening/
 
 MIT License - feel free to use and modify.
 
----
-
-Built with ❤️ using LangGraph, Gemini, and Python
